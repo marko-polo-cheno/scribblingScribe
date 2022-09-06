@@ -47,7 +47,7 @@ Book Chapters Verses
 37 Haggai 2 38
 38 Zechariah 14 211
 39 Malachi 4 55
-40 Matthew 28 1071
+40 Matthew 28 1071 - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28
 41 Mark 16 678
 42 Luke 24 1151
 43 John 21 879
