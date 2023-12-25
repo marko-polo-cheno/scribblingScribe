@@ -26,6 +26,3 @@ else
   echo "No changes in latest data; README.md is not updated."
   rm README_tmp.md
 fi
-
-# Cleanup
-rm latest_data.csv
