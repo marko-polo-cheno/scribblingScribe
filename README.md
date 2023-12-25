@@ -14,7 +14,7 @@ I will:
  - write one section of the NKJV Bible every day
  - listen to that section and write out the pinyin (CUV)
 
-[Tracking Info](https://drive.google.com/drive/folders/12wFzh9CQ7d5HisoHtP9PBIQqZOkLiW7P?usp=sharing)
+[Tracking Info](https://markopolocheno.imgur.com/all/)  
 [Bible Info](./bible_metadata.csv)
 
 Kinda too lazy to make an automated progress bar for now.
