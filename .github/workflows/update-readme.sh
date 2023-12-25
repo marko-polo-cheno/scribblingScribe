@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CSV_FILE="scribblingScribe/bible_outline.csv"
+CSV_FILE="bible_outline.csv"
 
 # Ensure the CSV file exists
 if [ ! -f "$CSV_FILE" ]; then
