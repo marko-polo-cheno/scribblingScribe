@@ -13,12 +13,19 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update Readme
-        run: .github/workflows/update-readme.sh
+        run: bash .github/workflows/update-readme.sh
+
+      - name: Remove latest_data.csv
+        run: rm latest_data.csv
 
       - name: Commit and Push Changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Update README with latest data"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "Update README with latest data"
+            git push
+          else
+            echo "No changes to commit."
+          fi
