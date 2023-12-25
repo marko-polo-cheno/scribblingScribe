@@ -12,12 +12,12 @@ Link to my [church](https://tjc.org/).
 
 I will:
  - write one section of the NKJV Bible every day
- - listen to that section and write out the pinyin (CUV)
+ - listen to that section in Chinese
+ - copy down the outline of the section into [here](./bible_outline.txt)
 
-[Tracking Info](https://markopolocheno.imgur.com/all/)  
-[Bible Info](./bible_metadata.csv)
+[Tracking Info](https://markopolocheno.imgur.com/all/)
 
-Kinda too lazy to make an automated progress bar for now.
+Kinda too lazy to make an automated progress bar for now, but will consider once things are in better shape using [this](./bible_metadata.csv).
 </details>
 
 <details>
