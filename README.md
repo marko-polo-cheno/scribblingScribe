@@ -3,7 +3,10 @@
 
 Link to my [church](https://tjc.org/).
 
-<details><summary style="font-size: larger;">Bible</summary>
+<details>
+<summary>
+<span style="font-size: 1.5em;">Bible</span>
+</summary>
 
 *Man shall not live by bread alone*...
 
@@ -17,7 +20,10 @@ I will:
 Kinda too lazy to make an automated progress bar for now.
 </details>
 
-<details><summary style="font-size: larger;">Hymns</summary>
+<details>
+<summary>
+<span style="font-size: 1.5em;">Hymns</span>
+</summary>
 
 *I will bless the Lord at all times*...
 
@@ -27,7 +33,10 @@ Eventually, I can use this CSV can train a digital assistant in suggesting hymns
 [Hymns](./hymn_metadata.csv)
 </details>
 
-<details><summary style="font-size: larger;">Prayer</summary>
+<details>
+<summary>
+<span style="font-size: 1.5em;">Prayer</span>
+</summary>
 
 *Let us therefore come boldly to the throne of grace*...
 
