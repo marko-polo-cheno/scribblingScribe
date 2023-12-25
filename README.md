@@ -13,11 +13,14 @@ Link to my [church](https://tjc.org/).
 I will:
  - write one section of the NKJV Bible every day
  - listen to that section in Chinese
- - copy down the outline of the section into [here](./bible_outline.txt)
+ - write down the outline
 
-[Tracking Info](https://markopolocheno.imgur.com/all/)
+Kinda too lazy to make an automated progress bar for now.  
+Will consider once things are in better shape using [this](./bible_metadata.csv).
 
-Kinda too lazy to make an automated progress bar for now, but will consider once things are in better shape using [this](./bible_metadata.csv).
+[Tracking Info](./bible_outline.txt)  
+[Chinese Audio Bible](https://www.wordproject.org/bibles/audio/04_chinese/index.htm)
+
 </details>
 
 <details>
@@ -27,7 +30,7 @@ Kinda too lazy to make an automated progress bar for now, but will consider once
 
 *I will bless the Lord at all times*...
 
-I never learned to play all 525 hymns on the piano with sincerety. When I do, I'll add it to a completion list.
+I never learned to play all 525 hymns on the piano with sincerety. When I do, I'll add it to a completion list.  
 Eventually, I can use this CSV can train a digital assistant in suggesting hymns for any topic.
 
 [Hymns](./hymn_metadata.csv)
