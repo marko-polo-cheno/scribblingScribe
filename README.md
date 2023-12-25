@@ -54,5 +54,11 @@ I will:
 It'd be interesting to see how things change over time, or don't change over time.
 </details>
 
+
 ## Latest Data
+| MMDDYY | Book | Chapter | Start | End | Section | Link |
+| ------ | ---- | ------- | ----- | --- | ------- | ---- |
+| 122523 | Ephesians | 2 | 11 | 13 | Brought Near by His Blood | [Link](https://i.imgur.com/1qvseLv.jpg) |
+| 122523 | Ephesians | 2 | 14 | 18 | Christ our Peace | [Link](https://i.imgur.com/1qvseLv.jpg) |
+| 122523 | Ephesians | 2 | 19 | 22 | Christ our Cornerstone | [Link](https://i.imgur.com/1qvseLv.jpg) |
 
