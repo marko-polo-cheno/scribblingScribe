@@ -8,8 +8,8 @@ Link to my [church](https://tjc.org/).
 *Man shall not live by bread alone*...
 
 I will:
-    - write one section of the NKJV Bible every day
-    - listen to that section and write out the pinyin (CUV)
+ - write one section of the NKJV Bible every day
+ - listen to that section and write out the pinyin (CUV)
 
 [Tracking Info](https://drive.google.com/drive/folders/12wFzh9CQ7d5HisoHtP9PBIQqZOkLiW7P?usp=sharing)
 [Bible Info](./bible_metadata.csv)
@@ -32,10 +32,10 @@ Eventually, I can use this CSV can train a digital assistant in suggesting hymns
 *Let us therefore come boldly to the throne of grace*...
 
 I will:
-    - track if I prayed in the morning and night
-    - write one thing I'm thankful for
-    - write one prayer request
-    - write the biggest oof of the day
+ - track if I prayed in the morning and night
+ - write one thing I'm thankful for
+ - write one prayer request
+ - write the biggest oof of the day
 
 [Prayer Log](./prayer_log.csv)
 
