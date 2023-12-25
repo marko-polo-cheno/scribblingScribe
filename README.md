@@ -19,8 +19,6 @@ Kinda too lazy to make an automated progress bar for now.
 Will consider once things are in better shape using [this](./bible_metadata.csv).
 
 [Tracking Info](./bible_outline.txt)  
-## Latest Data
-
 [Chinese Audio Bible](https://www.wordproject.org/bibles/audio/04_chinese/index.htm)
 
 </details>
@@ -55,3 +53,6 @@ I will:
 
 It'd be interesting to see how things change over time, or don't change over time.
 </details>
+
+## Latest Data
+
