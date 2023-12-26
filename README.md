@@ -58,10 +58,6 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 <!--BIBLE_DATA_END-->
 
-## Latest Hymn Data
-<!--HYMN_DATA_START-->
-<!--HYMN_DATA_END-->
-
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
 <!--PRAYER_DATA_END-->
