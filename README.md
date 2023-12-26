@@ -56,6 +56,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 
 
 
+
 ## Latest Data
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
