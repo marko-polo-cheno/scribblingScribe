@@ -4,52 +4,32 @@ BIBLE_FILE="bible_outline.csv"
 HYMN_FILE="hymn_metadata.csv"
 PRAYER_FILE="prayer_log.csv"
 
-update_latest_data() {
-    local csv_file="$1"
-    local section_title="$2"
-    local columns="$3"
-    local format="$4"
-    local latest_data_line="$5"  # This is the line that formats the latest data
-
-    # Ensure the CSV file exists
-    if [ ! -f "$csv_file" ]; then
-        echo "CSV file does not exist: $csv_file"
-        return 1
-    fi
-
-    tail -n 1 "$csv_file" > latest_data.csv
-
-    # Generate Markdown content for the latest data
-    latest_data="\n## $section_title\n$columns"
-    while IFS=, read -r $format; do
-        eval "latest_data_line=\"$latest_data_line\""  # Use eval to expand variables in the template
-        latest_data+="$latest_data_line\n"
-    done < latest_data.csv
-
-    # Update the README.md with the latest data
-    awk -v latest_data="$latest_data" "/## $section_title/{print latest_data; f=1; next} f && /^##/{f=0} !f" README.md > README_tmp.md
-
-    # Check if changes have been made, if so, update the README
-    if ! cmp -s README_tmp.md README.md; then
-        mv README_tmp.md README.md
-    else
-        echo "No changes in $section_title; README.md is not updated."
-        rm README_tmp.md
-    fi
-}
+# Prepare a new README content
+NEW_README_CONTENT=$(cat README.md)
 
 # Update Bible data
-update_latest_data "$BIBLE_FILE" "Latest Bible Data" \
-"| MMDDYY | Book | Chapter | Start | End | Section | Link |\n| ------ | ---- | ------- | ----- | --- | ------- | ---- |\n" \
-"mmddyy book chapter start end section link" \
-"| \${mmddyy} | \${book} | \${chapter} | \${start} | \${end} | \${section} | [Link](\${link}) |"
-
-# Update Prayer data
-update_latest_data "$PRAYER_FILE" "Latest Prayer Data" \
-"| MMDDYY | Time | Thanksgiving | Request | OOF |\n| ------ | ---- | ------------ | ------- | --- |\n" \
-"mmddyy time thanksgiving request oof"
+if [ -f "$BIBLE_FILE" ]; then
+    LATEST_BIBLE_DATA=$(tail -n 1 "$BIBLE_FILE" | awk -F, '{printf "| %s | %s | %s | %s | %s | %s | [Link](%s) |\n", $1, $2, $3, $4, $5, $6, $7}')
+    NEW_README_CONTENT=$(echo "$NEW_README_CONTENT" | sed "/<!--BIBLE_DATA_START-->/, /<!--BIBLE_DATA_END-->/c\<!--BIBLE_DATA_START-->\n$LATEST_BIBLE_DATA<!--BIBLE_DATA_END-->")
+else
+    echo "CSV file does not exist: $BIBLE_FILE"
+fi
 
 # Update Hymn data
-update_latest_data "$HYMN_FILE" "Latest Hymn Data" \
-"| Number | Title | Tags | Verse | Thoughts |\n| ------ | ----- | ---- | ----- | -------- |\n" \
-"number title tags verse thoughts"
+if [ -f "$HYMN_FILE" ]; then
+    LATEST_HYMN_DATA=$(tail -n 1 "$HYMN_FILE" | awk -F, '{printf "| %s | %s | %s | %s | %s |\n", $1, $2, $3, $4, $5}')
+    NEW_README_CONTENT=$(echo "$NEW_README_CONTENT" | sed "/<!--HYMN_DATA_START-->/, /<!--HYMN_DATA_END-->/c\<!--HYMN_DATA_START-->\n$LATEST_HYMN_DATA<!--HYMN_DATA_END-->")
+else
+    echo "CSV file does not exist: $HYMN_FILE"
+fi
+
+# Update Prayer data
+if [ -f "$PRAYER_FILE" ]; then
+    LATEST_PRAYER_DATA=$(tail -n 1 "$PRAYER_FILE" | awk -F, '{printf "| %s | %s | %s | %s | %s |\n", $1, $2, $3, $4, $5}')
+    NEW_README_CONTENT=$(echo "$NEW_README_CONTENT" | sed "/<!--PRAYER_DATA_START-->/, /<!--PRAYER_DATA_END-->/c\<!--PRAYER_DATA_START-->\n$LATEST_PRAYER_DATA<!--PRAYER_DATA_END-->")
+else
+    echo "CSV file does not exist: $PRAYER_FILE"
+fi
+
+# Save the modified content back to README.md
+echo "$NEW_README_CONTENT" > README.md
