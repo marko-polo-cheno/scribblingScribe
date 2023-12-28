@@ -18,7 +18,7 @@ I will:
 Kinda too lazy to make an automated progress bar for now.  
 Will consider once things are in better shape using [this](./bible_metadata.csv).
 
-[Tracking Info](./bible_outline.txt)  
+[Tracking Info](./bible_outline.csv)  
 [Chinese Audio Bible](https://www.wordproject.org/bibles/audio/04_chinese/index.htm)
 
 </details>
