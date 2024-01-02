@@ -56,8 +56,12 @@ It'd be interesting to see how things change over time, or don't change over tim
 
 ## Latest Bible Data
 <!--BIBLE_DATA_START-->
-<!--BIBLE_DATA_END-->
+| MMDDYY | Book | Chapter | Start | End | Section | Link |
+| ------ | ---- | ------- | ----- | --- | ------- | ---- |
+| 010124 | Titus | 3 | 15 | 15 | Farewell | [Link](https://i.imgur.com/MiPgIok.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
-<!--PRAYER_DATA_END-->
+| MMDDYY | Time | Thanksgiving | Request | OOF |
+| ------ | ---- | ------------ | ------- | --- |
+| 010124 | night | fun | guidance | coarse innuendos |<!--PRAYER_DATA_END-->
