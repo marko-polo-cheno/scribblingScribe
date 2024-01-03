@@ -64,4 +64,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 010124 | night | fun | guidance | coarse innuendos |<!--PRAYER_DATA_END-->
+| 010224 | night | job and coworkers | stronger determination to cultivate | a very secularly productive day |<!--PRAYER_DATA_END-->
