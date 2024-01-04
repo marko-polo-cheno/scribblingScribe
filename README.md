@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 010224 | Psalm | 1 | 1 | 6 | The Way of the Righteous and the End of the Ungodly | [Link](https://i.imgur.com/iMs6hHR.jpg) |<!--BIBLE_DATA_END-->
+| 010324 | Psalm | 1 | 1 | 12 | The Messiah’s Triumph and Kingdom | [Link](https://i.imgur.com/wOh9AhH.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
