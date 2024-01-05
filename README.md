@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 010324 | Psalm | 1 | 1 | 12 | The Messiah’s Triumph and Kingdom | [Link](https://i.imgur.com/wOh9AhH.jpg) |<!--BIBLE_DATA_END-->
+| 010424 | Psalm | 1 | 1 | 8 | The Lord Helps His Troubled People | [Link](https://i.imgur.com/eAyQ9Wb.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
