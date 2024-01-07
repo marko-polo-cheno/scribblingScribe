@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 010524 | Psalm | 1 | 1 | 8 | The Safety of the Faithful | [Link](https://i.imgur.com/p4Mcby8.jpg) |<!--BIBLE_DATA_END-->
+| 010624 | Psalm | 1 | 1 | 12 | A Prayer for Guidance | [Link](https://i.imgur.com/seyimdb.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
