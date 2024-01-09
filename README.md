@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 010724 | Psalm | 1 | 1 | 10 | A Prayer of Faith in Time of Distress | [Link](https://i.imgur.com/LsJ4bFH.jpg) |<!--BIBLE_DATA_END-->
+| 010824 | Psalm | 1 | 1 | 17 | Prayer and Praise for Deliverance from Enemies | [Link](https://i.imgur.com/8P6N1F2.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
