@@ -64,4 +64,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 010824 | night | friends | wisdom and energy | skipped monday night bible study |<!--PRAYER_DATA_END-->
+| 010924 | night | part time work contract extended | resume prayer habits in morning | did not say grace |<!--PRAYER_DATA_END-->
