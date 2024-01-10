@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 010824 | Psalm | 1 | 1 | 17 | Prayer and Praise for Deliverance from Enemies | [Link](https://i.imgur.com/8P6N1F2.jpg) |<!--BIBLE_DATA_END-->
+| 010924 | Psalm | 1 | 1 | 8 | The Glory of the Lord in Creation | [Link](https://i.imgur.com/Zj64G82.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
