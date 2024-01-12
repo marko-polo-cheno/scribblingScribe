@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 011024 | Psalm | 1 | 1 | 20 | Prayer and Thanksgiving for the Lord’s Righteous Judgments | [Link](https://i.imgur.com/KSqpfZy.jpg) |<!--BIBLE_DATA_END-->
+| 011124 | Psalm | 10 | 1 | 18 | A Song of Confidence in God’s Triumph over Evil | [Link](https://i.imgur.com/3KRMPtc.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
