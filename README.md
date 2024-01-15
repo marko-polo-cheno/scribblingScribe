@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 011324 | Psalm | 12 | 1 | 8 | Man’s Treachery and God’s Constancy | [Link](https://i.imgur.com/tXAuJH2.jpg) |<!--BIBLE_DATA_END-->
+| 011424 | Psalm | 13 | 1 | 6 | Trust in the Salvation of the Lord | [Link](https://i.imgur.com/h85zWIB.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
