@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 011424 | Psalm | 13 | 1 | 6 | Trust in the Salvation of the Lord | [Link](https://i.imgur.com/h85zWIB.jpg) |<!--BIBLE_DATA_END-->
+| 011524 | Psalm | 14 | 1 | 7 | "Folly of the Godless | [Link]( and God’s Final Triumph") |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
