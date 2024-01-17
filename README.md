@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 011524 | Psalm | 14 | 1 | 7 | "Folly of the Godless | [Link]( and God’s Final Triumph") |<!--BIBLE_DATA_END-->
+| 011624 | Psalm | 15 | 1 | 5 | The Character of Those Who May Dwell with the Lord | [Link](https://i.imgur.com/pxf4D1y.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
