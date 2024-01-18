@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 011724 | Psalm | 16 | 1 | 11 | "The Hope of the Faithful | [Link]( and the Messiah’s Victory") |<!--BIBLE_DATA_END-->
+| 011724 | Psalm | 16 | 1 | 11 | The Hope of the Faithful and the Messiah’s Victory | [Link](https://i.imgur.com/Yxw5N1X.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
