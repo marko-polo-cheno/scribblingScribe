@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 011924 | Psalm | 18 | 1 | 25 | God the Sovereign Savior | [Link](https://i.imgur.com/jFmBtCz.jpg) |<!--BIBLE_DATA_END-->
+| 012024 | Psalm | 18 | 26 | 50 | God the Sovereign Savior | [Link](https://i.imgur.com/zplXEea.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
