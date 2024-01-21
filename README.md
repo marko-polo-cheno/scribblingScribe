@@ -64,4 +64,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 011924 | night | heater fixed | friend's leg and future | up late sabbath night |<!--PRAYER_DATA_END-->
+| 012024 | night | funny RE class | HS | phone usage at church |<!--PRAYER_DATA_END-->
