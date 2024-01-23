@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 012124 | Psalm | 19 | 1 | 14 | The Perfect Revelation of the Lord | [Link](https://i.imgur.com/ji22sFy.jpg) |<!--BIBLE_DATA_END-->
+| 012223 | Psalm | 20 | 1 | 9 | The Assurance of God’s Saving Work | [Link](https://i.imgur.com/Fp9kBvU.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
