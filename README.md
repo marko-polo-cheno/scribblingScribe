@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 012223 | Psalm | 20 | 1 | 9 | The Assurance of God’s Saving Work | [Link](https://i.imgur.com/Fp9kBvU.jpg) |<!--BIBLE_DATA_END-->
+| 012323 | Psalm | 21 | 1 | 13 | Joy in the Salvation of the Lord | [Link](https://i.imgur.com/tCa1twe.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
