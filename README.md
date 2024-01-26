@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 012423 | Psalm | 22 | 1 | 5 | The Suffering Praise and Posterity of the Messiah | [Link](tbd) |<!--BIBLE_DATA_END-->
+| 012523 | Psalm | 22 | 6 | 31 | The Suffering Praise and Posterity of the Messiah | [Link](https://i.imgur.com/BdAyao1.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
