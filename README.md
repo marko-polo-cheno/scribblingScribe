@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 012624 | Hosea | 11 | 1 | 12 | God’s Continuing Love for Israel | [Link](https://i.imgur.com/4yI3N31.jpg) |<!--BIBLE_DATA_END-->
+| 012724 | Psalm | 23 | 1 | 6 | The Lord the Shepherd of His People | [Link](https://i.imgur.com/Zs4uGqq.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
