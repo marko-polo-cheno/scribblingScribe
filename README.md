@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 012724 | Psalm | 23 | 1 | 6 | The Lord the Shepherd of His People | [Link](https://i.imgur.com/Zs4uGqq.jpg) |<!--BIBLE_DATA_END-->
+| 012824 | Psalm | 24 | 1 | 10 | The King of Glory and His Kingdom | [Link](https://i.imgur.com/oXTANK8.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
