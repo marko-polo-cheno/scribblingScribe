@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 012824 | Psalm | 24 | 1 | 10 | The King of Glory and His Kingdom | [Link](https://i.imgur.com/oXTANK8.jpg) |<!--BIBLE_DATA_END-->
+| 012924 | Hosea | 12 | 1 | 14 | Ephraim's Sins Rebuked by God | [Link](https://i.imgur.com/VNkM9ij.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
