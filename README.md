@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 013024 | Hosea | 13 | 1 | 16 | Relentless Judgment on Israel | [Link](https://i.imgur.com/lunNP1U.jpg) |<!--BIBLE_DATA_END-->
+| 013124 | Hosea | 14 | 1 | 9 | Israel Restored at Last | [Link](https://i.imgur.com/JIHXpqb.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
