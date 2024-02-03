@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 020124 | 1 Thess | 1 | 1 | 10 | Greeting | [Link](https://i.imgur.com/m4NgM5u.jpg) |<!--BIBLE_DATA_END-->
+| 020224 | 1 | Thess | 2 | 17 | 20 | [Link](Longing to See Them) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
