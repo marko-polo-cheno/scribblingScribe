@@ -64,4 +64,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 020224 | night | family dinner | future plans | no friday night service |<!--PRAYER_DATA_END-->
+| 020324 | night | nice RE class | AGM | was not patient |<!--PRAYER_DATA_END-->
