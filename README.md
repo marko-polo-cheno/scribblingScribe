@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 020424 | 1 Thess | 4 | 13 | 18 | The Comfort of Christ's Coming | [Link](https://i.imgur.com/b41qZmL.jpg) |<!--BIBLE_DATA_END-->
+| 020524 | 1 Thess | 5 | 23 | 28 | Blessing and Admonition | [Link](https://i.imgur.com/XoWXVOF.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
