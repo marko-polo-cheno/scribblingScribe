@@ -64,4 +64,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 020624 | night | generous friends and mini bible study with truthseeker | courage to explain HS | missed tues night bible study |<!--PRAYER_DATA_END-->
+| 020724 | night | secular fellowship | more wisdom to share doctrines | didn't explain OTG very well vs trinity |<!--PRAYER_DATA_END-->
