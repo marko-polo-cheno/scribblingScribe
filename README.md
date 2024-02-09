@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 020724 | 1 John | 2 | 12 | 14 | The Spiritual State | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 020824 | 1 John | 2 | 15 | 17 | Do Not Love the World | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
