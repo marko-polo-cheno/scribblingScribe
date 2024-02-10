@@ -58,7 +58,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 020824 | 1 John | 2 | 15 | 17 | Do Not Love the World | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 020924 | 1 John | 2 | 28 | 29 | The Children of God | [Link](https://i.imgur.com/rzwHRCx.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
