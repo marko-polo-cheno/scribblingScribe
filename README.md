@@ -1,6 +1,8 @@
 # Scribbling Scribe
 ### Tracking my own cultivation
 
+New rule: skipping saturdays
+
 Link to my [church](https://tjc.org/).
 
 <details>
