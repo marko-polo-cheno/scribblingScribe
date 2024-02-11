@@ -66,4 +66,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 020924 | night | dad home from business trip | holy work and translation and AGM | missed friday night service |<!--PRAYER_DATA_END-->
+| 021024 | night | dumpling fellowship and smooth agm | HS | too much media |<!--PRAYER_DATA_END-->
