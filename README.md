@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 021124 | 1 John | 3 | 24 | 23 | The Spirit of Truth and the Spirit of Error | [Link](https://i.imgur.com/0m2wqkB.jpg) |<!--BIBLE_DATA_END-->
+| 021134 | 1 John | 4 | 1 | 10 | The Spirit of Truth and the Spirit of Error | [Link](tbd) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
