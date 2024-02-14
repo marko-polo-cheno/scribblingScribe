@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 021224 | 1 John | 4 | 7 | 11 | Knowing God Through Love | [Link](tbd) |<!--BIBLE_DATA_END-->
+| 021324 | 1 John | 4 | 20 | 21 | Obedience by Faith | [Link](https://i.imgur.com/yPnv5Nw.jpg) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
