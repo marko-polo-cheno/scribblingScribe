@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 021424 | 1 John | 5 | 1 | 5 | Obedience by Faith | [Link](tbd) |<!--BIBLE_DATA_END-->
+| 021524 | 1 John | 5 | 6 | 13 | The Certainty of God’s Witness | [Link](tbd) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
