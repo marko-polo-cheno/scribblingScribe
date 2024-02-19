@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 021724 | 1 John | 5 | 18 | 21 | Knowing the True—Rejecting the False | [Link](https://i.imgur.com/rA51j7e.jpg) |<!--BIBLE_DATA_END-->
+| 021824 | Romans | 1 | 16 | 17 | The Just Live by Faith | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
