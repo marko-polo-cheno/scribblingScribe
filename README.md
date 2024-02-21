@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 021924 | Romans | 1 | 16 | 17 | The Just Live by Faith | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 022024 | Romans | 1 | 18 | 23 | God’s Wrath on Unrighteousness | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
