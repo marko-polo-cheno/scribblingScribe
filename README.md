@@ -66,4 +66,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 022424 | night | sabbath and nice RE class | many struggles of brothers and sisters internationally | not a peacemaker |<!--PRAYER_DATA_END-->
+| 022524 | night | seeing mentee in person | old nyts group | not sure if I ate blood |<!--PRAYER_DATA_END-->
