@@ -66,4 +66,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 022924 | night | big dinner | thurs night bible study peeps | metaphorically should gouge eyes |<!--PRAYER_DATA_END-->
+| 030124 | night | sushi | guidance in coding | crude humour and lying |<!--PRAYER_DATA_END-->
