@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 030924 | Romans | 5 | 13 | 21 | Death in Adam Life in Christ | [Link](https://i.imgur.com/XicMNNj.jpg) |<!--BIBLE_DATA_END-->
+| 031024 | Romans | 6 | 15 | 23 | From Slaves of Sin to Slaves of God | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
