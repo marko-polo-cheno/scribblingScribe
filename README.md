@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 031024 | Romans | 6 | 15 | 23 | From Slaves of Sin to Slaves of God | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 031124 | Romans | 7 | 7 | 12 | Sin’s Advantage in the Law | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
