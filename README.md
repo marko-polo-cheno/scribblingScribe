@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 031124 | Romans | 7 | 7 | 12 | Sin’s Advantage in the Law | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 031224 | Romans | 7 | 13 | 25 | Law Cannot Save from Sin | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
