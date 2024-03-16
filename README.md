@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 031424 | Romans | 8 | 12 | 17 | Sonship Through the Spirit | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 031524 | Romans | 8 | 18 | 18 | From Suffering to Glory | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
