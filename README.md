@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 031824 | Romans | 9 | 14 | 18 | Israel's Rejection if God's Justice | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 031924 | Romans | 9 | 30 | 33 | Present Condition of Israel | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
