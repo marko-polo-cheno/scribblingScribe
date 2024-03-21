@@ -66,4 +66,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 031924 | night | chatting with various church friends | thurs night b study ppl | neglect God |<!--PRAYER_DATA_END-->
+| 032024 | night | eventful day | spiritual endurance for cultivation | toxic |<!--PRAYER_DATA_END-->
