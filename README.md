@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 031924 | Romans | 9 | 30 | 33 | Present Condition of Israel | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 032024 | Romans | 10 | 1 | 13 | Israel Needs the Gospel | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
