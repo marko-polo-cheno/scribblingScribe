@@ -60,7 +60,7 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--BIBLE_DATA_START-->
 | MMDDYY | Book | Chapter | Start | End | Section | Link |
 | ------ | ---- | ------- | ----- | --- | ------- | ---- |
-| 032124 | Romans | 10 | 14 | 14 | Israel Rejects the Gospel | [Link](TBD) |<!--BIBLE_DATA_END-->
+| 032324 | Romans | 11 | 1 | 10 | Israel’s Rejection Not Total | [Link](TBD) |<!--BIBLE_DATA_END-->
 
 ## Latest Prayer Data
 <!--PRAYER_DATA_START-->
