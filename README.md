@@ -66,4 +66,4 @@ It'd be interesting to see how things change over time, or don't change over tim
 <!--PRAYER_DATA_START-->
 | MMDDYY | Time | Thanksgiving | Request | OOF |
 | ------ | ---- | ------------ | ------- | --- |
-| 032524 | night | studious day with church friends | health | over eating |<!--PRAYER_DATA_END-->
+| 032624 | night | productive day of work | tues b study ppl | under eating and need to plan to willingly tithe |<!--PRAYER_DATA_END-->
